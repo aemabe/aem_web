@@ -1,0 +1,18 @@
+<p style="text-align: center;">
+<img src="Abigail_headshot.jpg" width="400px" height="400px" style="object-fit: cover; object-position: 50% 32%; border: 3px solid #333; margin-bottom: 30px;"/>
+</p>
+
+I am a Senior at UNC Chapel Hill majoring in Biology and Statistics with a minor in Data-science. After graduation, I plan on attending a Masters program to further my education in these subjects. A few of my research interests include Bayesian Statistics, Marathon Running, Visualization, and Decision Science.
+
+I have proficient experience in both R and Python coding languages. Over the summers of 2023 and 2024, I interned for UCB Biosciences as a Benefit Risk Analysis Intern, and I will return to intern with UCB in the summer of 2025 as a Biostatistician intern. At UNC Chapel Hill, I am a member of Tri Beta, Alpha phi Omega, and the Sports Analysis Intelligence Laboratory.
+
+[Abigail Mabe's CV](Abigail_CV1.pdf)
+
+To view more information about my project teams, please visit the [Project Teams](proj.qmd) tab.
+
+For more information about my individual research, please visit one of the various drop-downs under Independent Research.
+
+Contact Information:
+
+-  Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[abigailmabe03@gmail.com](mailto:abigailmabe03@gmail.com)
+-  Linkedin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Abigail Mabe](https://www.linkedin.com/in/abigail-mabe-3757ab217/)

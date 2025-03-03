@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abigail Mabe's Personal Website"
+  search:
+    location: navbar
+    type: overlay
+  page-navigation: true
+  navbar:
+    pinned: true
+    collapse: false
+    background: primary
+    search: true
+    right:
+        - href: aboutme.qmd
+          text: "About Me"
+        - text: "Project Teams"
+          href: proj.qmd
+        - text: "Independent Research"
+          menu:
+            - text: "Senior Honors Thesis"
+              href: honorsthesis.qmd
+
+format:
+  html:
+    css: styles.css
+    header-includes:
+      - "<style>
+         /* Full-width sticky header */
+         .sticky-header {
+           position: fixed;
+           top: 0;
+           left: 0;
+           width: 100%;
+           background-color: #333;
+           color: #fff;
+           text-align: center;
+           padding: 0px 0;
+           font-size: 0em;
+           font-weight: bold;
+           z-index: 1000;
+           margin: 0;
+           box-shadow: 0 0px 0px rgba(0, 0, 0, 0.2);
+         }
+         body {
+           margin-top: 0px; /* Adjust based on header height */
+         }
+        </style>
+        <div class=\"sticky-header\">
+          Abigail Mabe's Personal Website
+        </div>"
+
+    theme: flatly  # Use CSS to make the sidebar always visible and avoid floating behavior
+    toc: true
+    toc-location: right
+
+site-url: "https://aem_web.github.io/aem_web/"
+repo-url: "https://github.com/aemabe/aem_web"
+repo-actions: [edit, issue]
+
+editor: visual

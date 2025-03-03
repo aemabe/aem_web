@@ -1,0 +1,9 @@
+# Sports Analysis Intelligence Laboratory
+<p style="text-align: center;">
+<img src="SAIL.png" width="400px" height="400px" style="object-fit: cover; object-position: 60% 50%; border: 3px solid #333; margin-bottom: 30px;"/>
+</p>
+
+## Purpose of SAIL
+We firmly believe that sports analytics can be useful in helping athletes and coaches improve performance and gain competitive advantages. We aim to support our university’s athletic programs through application-based research in sports analytics. SAIL’s diverse data science skills can be useful in extracting innovative insights from the data you regularly collect or the data to which you have access. Through private consulting, we ensure that any discoveries from your data, remain between the SAIL team and yours.
+
+### Linkedin: [Sports Analysis Intelligence Laboratory](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A100299519&keywords=Sports%20Analysis%20Intelligence%20Laboratory&origin=ENTITY_SEARCH_HOME_HISTORY&sid=%2Cbs)
