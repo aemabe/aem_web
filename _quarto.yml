@@ -56,7 +56,7 @@ format:
     toc: true
     toc-location: right
 
-site-url: "https://aem_web.github.io/aem_web/"
+site-url: "https://aemabe.github.io/aem_web/"
 repo-url: "https://github.com/aemabe/aem_web"
 repo-actions: [edit, issue]
 
