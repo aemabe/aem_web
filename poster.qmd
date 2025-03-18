@@ -13,6 +13,7 @@ slight differences in the virus, in conjunction with varying vaccine efficacies,
 spread of the disease across populations.
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin-top: 132px;">
-  <iframe src="projects/poster1.pdf#zoom=page-width" style="width: 90vw; height: 90vh; border: none; display: block;"></iframe>
+
+<div style="position: absolute; left: 50%; transform: translateX(-50%); width: 90vw; margin-top: 132px;">
+  <iframe src="projects/poster1.pdf#zoom=page-width" style="width: 100%; height: 90vh; border: none;"></iframe>
 </div>
