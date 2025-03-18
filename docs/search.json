@@ -7,13 +7,6 @@
     "text": "We firmly believe that sports analytics can be useful in helping athletes and coaches improve performance and gain competitive advantages. We aim to support our university’s athletic programs through application-based research in sports analytics. SAIL’s diverse data science skills can be useful in extracting innovative insights from the data you regularly collect or the data to which you have access. Through private consulting, we ensure that any discoveries from your data, remain between the SAIL team and yours."
   },
   {
-    "objectID": "aboutme.html",
-    "href": "aboutme.html",
-    "title": "Abigail Mabe's Personal Website",
-    "section": "",
-    "text": "I am a Senior at UNC Chapel Hill majoring in Biology and Statistics with a minor in Data-science. After graduation, I plan on attending a Masters program to further my education in these subjects. A few of my research interests include Bayesian Statistics, Marathon Running, Visualization, and Decision Science.\nI have proficient experience in both R and Python coding languages. Over the summers of 2023 and 2024, I interned for UCB Biosciences as a Benefit Risk Analysis Intern, and I will return to intern with UCB in the summer of 2025 as a Biostatistician intern. At UNC Chapel Hill, I am a member of Tri Beta, Alpha phi Omega, and the Sports Analysis Intelligence Laboratory.\nAbigail Mabe’s CV\nTo view more information about my project teams, please visit the Project Teams tab.\nFor more information about my individual research, please visit one of the various drop-downs under Independent Research.\nContact Information:\n\nEmail:          abigailmabe03@gmail.com\nLinkedin:          Abigail Mabe"
-  },
-  {
     "objectID": "proj.html#purpose-of-sail",
     "href": "proj.html#purpose-of-sail",
     "title": "Sports Analysis Intelligence Laboratory",
@@ -33,5 +26,26 @@
     "title": "Abigail Mabe's Personal Website",
     "section": "",
     "text": "Super shoes have been a recent phenomenon in the running community, with many top racers relying on them to boost their running economy. Many biological studies tackle this sensation, suggesting super shoes improve running efficiency. However, is there statistical evidence that these shoes are making a difference in recent marathon performances? In addition, can this recent phenomenon be generalized to observe significant changes in the trend of marathon records over the course of the last few decades? Through the use of Extreme Value Theory, Bayesian statistics, and multiple changepoint models, these questions are tackled in a two-part study. The first part analyzes the historical trends of marathon records, detecting no single event that has changed the trajectory of the fastest marathon times in a given year. The second part analyzes the recent impact of super shoes on marathon performances, establishing a correlation between the introduction of super shoes in 2017 and a significant difference in performance trends.\n\n To view my senior honors thesis, you may either click on the following link or view the embedded pdf below:\n\nChangepoint Analysis on Marathon and Half Marathon Data; An Insight on Annual Record Trends and Recent Major Marathon Performances"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "Abigail Mabe's Personal Website",
+    "section": "",
+    "text": "I am a Senior at UNC Chapel Hill majoring in Biology and Statistics with a minor in Data-science. After graduation, I plan on attending a Masters program to further my education in these subjects. A few of my research interests include Bayesian Statistics, Marathon Running, Visualization, and Decision Science.\nI have proficient experience in both R and Python coding languages. Over the summers of 2023 and 2024, I interned for UCB Biosciences as a Benefit Risk Analysis Intern, and I will return to intern with UCB in the summer of 2025 as a Biostatistician intern. At UNC Chapel Hill, I am a member of Tri Beta, Alpha phi Omega, and the Sports Analysis Intelligence Laboratory.\nAbigail Mabe’s CV\nTo view more information about my project teams, please visit the Project Teams tab.\nFor more information about my individual research, please visit one of the various drop-downs under Independent Research.\nContact Information:\n\nEmail:          abigailmabe03@gmail.com\nLinkedin:          Abigail Mabe"
+  },
+  {
+    "objectID": "poster.html",
+    "href": "poster.html",
+    "title": "Abigail Mabe's Personal Website",
+    "section": "",
+    "text": "The spread of infectious diseases such as influenza is influenced by various factors, one of the most significant being the efficacy of a vaccine. This is particularly relevant when comparing rural and urban populations, where access to vaccination can differ substantially. We aim to explore this phenomenon in greater depth by utilizing population data while toggling many key parameters in our model such as: vaccination rate (\\(\\theta\\)), vaccination efficacy (\\(\\epsilon\\)), andθ ϵ recovery rate (\\(\\alpha\\)). The parameters will be modeled in a discrete Susceptible, Vaccinated, Infected,α Recovered (SVIR) model to assess their interactions with one another in a disease simulation. By viewing the changes in the proportion of initial susceptibles (\\(S_0\\)) that have not been infected (\\(q\\)), we can deduce how these factors interact to influence the spread of influenza. In addition to the basic SVIR model, we want to consider two strains of influenza, because typically influenza spreads many strains at a given time. By incorporating this variation, we aim to understand how slight differences in the virus, in conjunction with varying vaccine efficacies, can influence the spread of the disease across populations."
+  },
+  {
+    "objectID": "poster.html#abstract",
+    "href": "poster.html#abstract",
+    "title": "Abigail Mabe's Personal Website",
+    "section": "",
+    "text": "The spread of infectious diseases such as influenza is influenced by various factors, one of the most significant being the efficacy of a vaccine. This is particularly relevant when comparing rural and urban populations, where access to vaccination can differ substantially. We aim to explore this phenomenon in greater depth by utilizing population data while toggling many key parameters in our model such as: vaccination rate (\\(\\theta\\)), vaccination efficacy (\\(\\epsilon\\)), andθ ϵ recovery rate (\\(\\alpha\\)). The parameters will be modeled in a discrete Susceptible, Vaccinated, Infected,α Recovered (SVIR) model to assess their interactions with one another in a disease simulation. By viewing the changes in the proportion of initial susceptibles (\\(S_0\\)) that have not been infected (\\(q\\)), we can deduce how these factors interact to influence the spread of influenza. In addition to the basic SVIR model, we want to consider two strains of influenza, because typically influenza spreads many strains at a given time. By incorporating this variation, we aim to understand how slight differences in the virus, in conjunction with varying vaccine efficacies, can influence the spread of the disease across populations."
   }
 ]

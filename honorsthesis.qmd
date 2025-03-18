@@ -7,6 +7,6 @@ To view my senior honors thesis, you may either click on the following link or v
 - [Changepoint Analysis on Marathon and Half Marathon Data; An Insight on Annual Record Trends and Recent Major Marathon Performances](projects/Thesis.pdf)
 
 <div style="display: flex; margin-top: 132px; justify-content: center; align-items: center; text-align: center;">
-  <iframe src="projects/Thesis.pdf" width="1500" height="700"></iframe>
+  <iframe src="projects/Thesis.pdf" style="width: 90%; max-width: 1400px; height: 700px;"></iframe>
 </div>
 

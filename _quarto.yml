@@ -22,6 +22,8 @@ website:
           menu:
             - text: "Senior Honors Thesis"
               href: honorsthesis.qmd
+            - text: "Poster Presentations"
+              href: poster.qmd
 
 format:
   html:
